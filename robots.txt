@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaijeikaiw.vereiny.com/sitemap.xml
